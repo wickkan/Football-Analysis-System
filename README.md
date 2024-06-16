@@ -1,4 +1,4 @@
-# Football-Analysis-System
+# Football Analysis System Using YOLO
 
 A football analysis system using YOLO and ultralytics.
 
